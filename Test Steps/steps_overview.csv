@@ -1,11 +1,7 @@
-Flow ID,Test Steps,Flow Priority
-1,"step 1: Navigate to Page_home
-step 2: At Page_home click on hyperlink_app_daily_dev_sources_daily_updates
-step 3: At Page_home click on hyperlink_docs_intro --> navigate to Page_docs_intro
-step 4: Add visual checkpoint at Page_docs_intro",High
-3,"step 1: Navigate to Page_docs_setting-up-your-feed_advanced-filtering-options
-step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_advanced-filtering-options",Medium
-2,"step 1: Navigate to Page_docs_setting-up-your-feed_blocking-tags-sources
-step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_blocking-tags-sources",Medium
-4,"step 1: Navigate to Page_docs_getting-started_browser-extension-installation
-step 2: Add visual checkpoint at Page_docs_getting-started_browser-extension-installation",Low
+Flow ID,Description,Test Steps,Flow Priority
+1,Verify Successful Navigation to Documentation Introduction Page,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink app daily dev sources daily updates
+step 3: At Page home click on hyperlink docs intro --> navigate to Page docs intro
+step 4: Add visual checkpoint at Page docs intro",High
+2,Verify Successful Navigation to Browser Extension Installation Page,"step 1: Navigate to Page docs getting-started browser-extension-instal
+step 2: Add visual checkpoint at Page docs getting-started browser-extension-instal",Low

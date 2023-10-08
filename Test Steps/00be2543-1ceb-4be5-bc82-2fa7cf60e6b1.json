@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_home",
-        "step 2: At Page_home click on hyperlink_app_daily_dev_sources_daily_updates",
-        "step 3: At Page_home click on hyperlink_docs_intro --> navigate to Page_docs_intro",
-        "step 4: Add visual checkpoint at Page_docs_intro"
-    ]
-}
